@@ -267,14 +267,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "VisualStudioCodeSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "VisualStudioSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "XCodeSourceCodeAccess",
 			"Enabled": false
 		},
