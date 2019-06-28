@@ -188,10 +188,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OculusVR",
-			"Enabled": false
-		},
-		{
 			"Name": "OnlineSubsystemGooglePlay",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -247,10 +243,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
 			"Name": "TcpMessaging",
 			"Enabled": false
 		},
@@ -290,6 +282,10 @@
 			"Name": "StereoPanoramicPlayer",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8b12fdd4020e413dade4cf3bba4a9ed2"
+		},
+		{
+			"Name": "SteamController",
+			"Enabled": true
 		}
 	]
 }
