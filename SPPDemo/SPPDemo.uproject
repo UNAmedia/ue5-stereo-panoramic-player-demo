@@ -285,7 +285,8 @@
 		},
 		{
 			"Name": "SteamController",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
+
