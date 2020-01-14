@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.sppdemo-10757647.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Martino/Desktop/Unamedia/ue4-stereo-panoramic-player-demo/SPPDemo/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "SPPDemo-10757647 [UE Editor]"
+				}
+			}
+		}
+	]
+}
