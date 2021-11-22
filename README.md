@@ -14,7 +14,11 @@ Documentation: <https://www.unamedia.com/ue4-stereo-panoramic-player/api/>
 
 Video tutorial: <https://youtu.be/LVeVk5_z630>
 
-Support thread: <https://forums.unrealengine.com/unreal-engine/marketplace/1607709-stereo-panoramic-player>
+Discord server: <https://discord.gg/PuAyhDctHp>
+
+[![Join the Discord server](https://invidget.switchblade.xyz/PuAyhDctHp)](https://discord.gg/PuAyhDctHp)
+
+Forum thread: <https://forums.unrealengine.com/unreal-engine/marketplace/1607709-stereo-panoramic-player>
 
 ## Stereo Panoramic Player - plugin
 
