@@ -1,6 +1,6 @@
-# Stereo Panoramic Player - UE4 demo project
+# Stereo Panoramic Player - UE5 demo project
 
-This project is a public client demo of the plugin "*[Stereo Panoramic Player](https://www.unrealengine.com/marketplace/stereo-panoramic-player)*" for Unreal Engine 4. The demo supports the following platforms: PC, macOS, VR (Steam/Vive, Oculus), iOS and Android.
+This project is a public client demo of the plugin "*[Stereo Panoramic Player](https://www.unrealengine.com/marketplace/stereo-panoramic-player)*" for Unreal Engine 5. The demo supports the following platforms: PC, macOS, VR (Steam/Vive, Oculus, Quest), iOS and Android.
 
 **ATTENTION: a copy of the plugin is required to use this project.**
 
@@ -10,7 +10,7 @@ This project is a public client demo of the plugin "*[Stereo Panoramic Player](h
 
 Marketplace: <https://www.unrealengine.com/marketplace/stereo-panoramic-player>
 
-Documentation: <https://www.unamedia.com/ue4-stereo-panoramic-player/api/>
+Documentation: <https://www.unamedia.com/ue5-stereo-panoramic-player/api/>
 
 Video tutorial: <https://youtu.be/LVeVk5_z630>
 
@@ -20,13 +20,19 @@ Discord server: <https://discord.gg/PuAyhDctHp>
 
 Forum thread: <https://forums.unrealengine.com/unreal-engine/marketplace/1607709-stereo-panoramic-player>
 
+## Branches
+
+The *master* branch contains the project for the latest available version of Unreal Engine.
+
+You can find the projects for the other supported versions of Unreal Engine in their dedicated *branches* in this repository.
+
 ## Stereo Panoramic Player - plugin
 
-**[Stereo Panoramic Player](https://www.unrealengine.com/marketplace/stereo-panoramic-player)** is a runtime plugin for Unreal Engine 4 to show and interact with 360° panoramic images and videos, supporting both mono and stereo sources.
+**[Stereo Panoramic Player](https://www.unrealengine.com/marketplace/stereo-panoramic-player)** is a runtime plugin for Unreal Engine 5 to show and interact with 360° panoramic images and videos, supporting both mono and stereo sources.
 
 It offers both an high-level solution (_Panoramic Director_) to quickly assemble an interactive panoramic virtual tour, and a low-level solution (_Panoramic Sphere_) to allow a programmatic customization of the user experience.
 
-It’s compatible with all the major platforms and it’s actively tested on PC, VR (Steam/Vive and Oculus), iOS and Android.
+It’s compatible with all the major platforms and it’s actively tested on PC, VR (Steam/Vive, Oculus, Quest), iOS and Android.
 
 ### Features
 
@@ -35,21 +41,21 @@ It’s compatible with all the major platforms and it’s actively tested on PC,
 - rendering of 360° panoramic images (mono and stereo);
 - playback of 360° panoramic videos (mono and stereo);
 - over-under stereoscopic layout;
-- overlayed UMG widgets for user interaction;
+- overlaid UMG widgets for user interaction;
 - interactive areas through coloured masks;
 - dynamic blending with the 3D environment;
-- high-level actor (class [APanoramicDirector](https://www.unamedia.com/ue4-stereo-panoramic-player/api/panoramic_director.html)) to quickly assemble a panoramic player;
-- low-level actor (class [APanoramicSphere](https://www.unamedia.com/ue4-stereo-panoramic-player/api/panoramic_sphere.html)) for complete access to all the supported features;
+- high-level actor (class [APanoramicDirector](https://www.unamedia.com/ue5-stereo-panoramic-player/api/panoramic_director.html)) to quickly assemble a panoramic player;
+- low-level actor (class [APanoramicSphere](https://www.unamedia.com/ue5-stereo-panoramic-player/api/panoramic_sphere.html)) for complete access to all the supported features;
 features available from both Blueprints and C++.
 
 ## Demo project
 
-This demo supports the following platforms: PC, macOS, VR (Steam/Vive, Oculus), iOS and Android.
+This demo supports the following platforms: PC, macOS, VR (Steam/Vive, Oculus, Quest), iOS and Android.
 
 It showcases how to use the two main features of the plugin:
 
-- how to use the high-level class [APanoramicDirector](https://www.unamedia.com/ue4-stereo-panoramic-player/api/panoramic_director.html) to create a virtual tour using 360° panoramic images;
-- how to use the low-level class [APanoramicSphere](https://www.unamedia.com/ue4-stereo-panoramic-player/api/panoramic_sphere.html) to playback a 360° panoramic video.
+- how to use the high-level class [APanoramicDirector](https://www.unamedia.com/ue5-stereo-panoramic-player/api/panoramic_director.html) to create a virtual tour using 360° panoramic images;
+- how to use the low-level class [APanoramicSphere](https://www.unamedia.com/ue5-stereo-panoramic-player/api/panoramic_sphere.html) to playback a 360° panoramic video.
 
 Note: _Portrait_ mode on iOS is temporarily disabled due [issue UE-65091](https://issues.unrealengine.com/issue/UE-65091) (it should be fixed on UE4.22).
 
