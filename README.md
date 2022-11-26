@@ -59,6 +59,13 @@ It showcases how to use the two main features of the plugin:
 
 Note: _Portrait_ mode on iOS is temporarily disabled due [issue UE-65091](https://issues.unrealengine.com/issue/UE-65091) (it should be fixed on UE4.22).
 
+### VR mode
+
+Accordingly to the latest Unreal Engine developments, the demo project uses the Unreal Engine *OpenXR subsystem* to support VR mode on desktop platforms.
+Please check the [OpenXR prerequisites](https://docs.unrealengine.com/5.1/en-US/developing-for-head-mounted-experiences-with-openxr-in-unreal-engine/) and [how to install the OpenXR runtime](https://docs.unrealengine.com/5.1/en-US/openxr-prerequisites-in-unreal-engine/) to properly run the demo on your system.
+
+Note that the [Oculus VR and SteamVR plugins are deprecated](https://docs.unrealengine.com/5.1/en-US/unreal-engine-5.1-release-notes/#deprecatedoculusvrandsteamvrplugins) since UE5.1.
+
 ### Third Party contents
 
 The demo makes use of the following materials, refer to their licenses for further reuse:

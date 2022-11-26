@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -288,36 +288,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
 				"Android",
-				"HoloLens"
-			]
-		},
-		{
-			"Name": "OculusVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
-			"Name": "WindowsMixedReality",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
 				"HoloLens"
 			]
 		},

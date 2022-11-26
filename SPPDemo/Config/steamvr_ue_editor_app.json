@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.sppdemo-10757647.ue4editor.exe",
+			"app_key": "application.generated.ue.sppdemo-19505902.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Martino/Desktop/Unamedia/ue4-stereo-panoramic-player-demo/SPPDemo/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "W:/Unamedia/ue4-stereo-panoramic-player-demo-v1-ue5.0/SPPDemo/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "SPPDemo-10757647 [UE Editor]"
+					"name": "SPPDemo-19505902 [UE Editor]"
 				}
 			}
 		}
